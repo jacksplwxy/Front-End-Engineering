@@ -5,6 +5,8 @@
 <br/>
 &emsp;&emsp;前端工业化就是将手工作坊改造为工业车间，以实现前端产品生产过程的自动化（减少人工，增加效率和质量）、高效率（生产周期短）、高品质（代码bug少、稳定性好、性能佳）、统一管理（易于学习、易于协作、易于维护）。
 <br/>
+&emsp;&emsp;本项目将从npm、webpack、代码质量、前端自动化测试、前端性能优化、持续集成/持续部署等方面系统全面地介绍前端如何实现工程化。
+<br/>
 
 <br/>
 <br/>
@@ -12,7 +14,7 @@
 ## 如何实现前端工程化
 ### [· npm](https://github.com/jacksplwxy/npm)
 ### [· webpack](https://github.com/jacksplwxy/webpack)
-### [· Good-Code](https://github.com/jacksplwxy/Good-Code)
-### [· AutoTest](https://github.com/jacksplwxy/AutoTest)
-### [· FrontEndPerformanceOptimization](https://github.com/jacksplwxy/FrontEndPerformanceOptimization)
-### [· CI-CD](https://github.com/jacksplwxy/CI-CD)
+### [· 代码质量](https://github.com/jacksplwxy/Good-Code)
+### [· 前端自动化测试](https://github.com/jacksplwxy/AutoTest)
+### [· 前端性能优化](https://github.com/jacksplwxy/FrontEndPerformanceOptimization)
+### [· 持续集成/持续部署](https://github.com/jacksplwxy/CI-CD)
