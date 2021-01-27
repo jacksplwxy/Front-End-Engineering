@@ -17,8 +17,9 @@
 ### [· 代码质量](https://github.com/jacksplwxy/Good-Code)
 ### [· 前端自动化测试](https://github.com/jacksplwxy/AutoTest)
 ### [· 前端性能优化](https://github.com/jacksplwxy/FrontEndPerformanceOptimization)
-### [· 持续集成/持续部署](https://github.com/jacksplwxy/CI-CD)
 ### [· web安全](https://github.com/jacksplwxy/security)
+### [· 持续集成/持续部署](https://github.com/jacksplwxy/CI-CD)
+
 
 <br/>
 <br/>
