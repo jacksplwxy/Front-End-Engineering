@@ -18,6 +18,7 @@
 ### [· 前端自动化测试](https://github.com/jacksplwxy/AutoTest)
 ### [· 前端性能优化](https://github.com/jacksplwxy/FrontEndPerformanceOptimization)
 ### [· web安全](https://github.com/jacksplwxy/security)
+### [· 前端监控平台](https://github.com/jacksplwxy/Front-End-Monitoring-Platform)
 ### [· 持续集成/持续部署](https://github.com/jacksplwxy/CI-CD)
 
 
